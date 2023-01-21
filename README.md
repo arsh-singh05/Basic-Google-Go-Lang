@@ -1,6 +1,6 @@
 # Basic-Google-Go
 
-![alt text](https://play-lh.googleusercontent.com/RZ5luCUwc5QtJP9xDn-ZCwEutT160GVyoh5K1eu4YJ5fD7v4LP5ptVdgR9mz4Hnr7A)
+### ![alt text](https://mobcoder.com/blog/wp-content/uploads/google-go.jpg)
 
 Go is a popular programming language that is widely used in industry and has a strong and growing community of developers. It is known for its simplicity, concurrency support, and performance, which makes it a good choice for a variety of applications.
 
