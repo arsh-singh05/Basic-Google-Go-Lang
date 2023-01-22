@@ -5,3 +5,7 @@ Go has several built-in types, such as integers (int, int8, int16, int32, int64)
 Go also has several composite types, such as arrays and structs, which can be used to group multiple values together.
 
 Go also supports user-defined types through the use of structs and interfaces.
+
+Structs in Go are used to define user-defined types.
+
+Structs can have fields and methods associated with them.
