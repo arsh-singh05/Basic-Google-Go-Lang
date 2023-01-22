@@ -28,10 +28,12 @@ The tutorials in this repository cover the following topics:
  - [Conditional Statemets](https://github.com/arsh-singh05/Basic-Google-Go-Lang/tree/main/Conditional%20Statements): Learn how to use if-else statements and other conditional statement constructs to control the flow of execution in a Go program.
  - [Functions](https://github.com/arsh-singh05/Basic-Google-Go-Lang/tree/main/Functions): Learn how to define and call functions in Go, and how to work with function arguments and return values.
  - [Arrays](https://github.com/arsh-singh05/Basic-Google-Go-Lang/tree/main/Array): Learn how to work with arrays in Go, including how to declare, initialize, and manipulate arrays.
+ - [Pointers](https://github.com/arsh-singh05/Basic-Google-Go-Lang/tree/main/Pointers): Variables that store the memory address of another variable, allowing you to directly access and manipulate the underlying value.
  - [Structs and Methods](https://github.com/arsh-singh05/Basic-Google-Go-Lang/tree/main/Hello%20World): Learn how to define structs and methods in Go, and how to use structs to organize and encapsulate data.
  - [Interfaces](https://github.com/arsh-singh05/Basic-Google-Go-Lang/tree/main/Interfaces): Learn how to define and use interfaces in Go, and how to create objects that implement multiple interfaces.
  - [Concurrency](https://github.com/arsh-singh05/Basic-Google-Go-Lang/tree/main/Concurrency): Learn how to use Go's built-in concurrency features, such as goroutines and channels, to write concurrent and parallel programs.
  - [File Handling](https://github.com/arsh-singh05/Basic-Google-Go-Lang/tree/main/File%20Handling): Learn how to read and write files in Go and how to handle errors while working with files
+ 
 
 ### Contributing
 We welcome contributions to this repository, whether it's in the form of new examples, bug fixes, or tutorials. If you'd like to contribute, please fork this repository, make your changes, and submit a pull request.
