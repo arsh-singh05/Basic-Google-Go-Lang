@@ -6,7 +6,7 @@ This repository contains sample code and tutorials for learning the basics of Go
 
 Go is a popular programming language that is widely used in industry and has a strong and growing community of developers. It is known for its simplicity, concurrency support, and performance, which makes it a good choice for a variety of applications.
 
-In terms of its future, it is difficult to predict with certainty what will happen, but it seems likely that Go will continue to be widely used and remain an important programming language. It has already been adopted by a number of major companies and organizations, and its popularity appears to be growing. That being said, it is always important to stay up to date with the latest developments in the field and be open to learning new languages and technologies as needed. It is a good idea to regularly review and evaluate your tools and technologies to ensure that you are using the best ones for your needsSome advantages of using Go include:
+In terms of its future, it is difficult to predict with certainty what will happen, but it seems likely that Go will continue to be widely used and remain an important programming language. It has already been adopted by a number of major companies and organizations, and its popularity appears to be growing. That being said, it is always important to stay up to date with the latest developments in the field and be open to learning new languages and technologies as needed. It is a good idea to regularly review and evaluate your tools and technologies to ensure that you are using the best ones for your needs. Some advantages of using Go include:
 
 1. Efficient concurrency
 2. Fast compilation
