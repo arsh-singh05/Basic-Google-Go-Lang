@@ -17,7 +17,7 @@ In terms of its future, it is difficult to predict with certainty what will happ
 7. Widely used in industry
 
 ### Getting Started
-To get started with Go, you'll need to download and install the Go distribution for your operating system. The latest version of Go can be downloaded from the official Go website.
+To get started with Go, you'll need to download and install the Go distribution for your operating system. The latest version of Go can be downloaded from the [official Go website].(https://go.dev/)
 
 Once you have Go installed, you can use the go command to run Go programs and the go build command to build Go programs. You can also use the go run command to run Go programs without building them first.
 
