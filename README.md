@@ -32,7 +32,8 @@ The tutorials in this repository cover the following topics:
  - [Structs and Methods](https://github.com/arsh-singh05/Basic-Google-Go-Lang/tree/main/Hello%20World): Learn how to define structs and methods in Go, and how to use structs to organize and encapsulate data.
  - [Interfaces](https://github.com/arsh-singh05/Basic-Google-Go-Lang/tree/main/Interfaces): Learn how to define and use interfaces in Go, and how to create objects that implement multiple interfaces.
  - [Concurrency](https://github.com/arsh-singh05/Basic-Google-Go-Lang/tree/main/Concurrency): Learn how to use Go's built-in concurrency features, such as goroutines and channels, to write concurrent and parallel programs.
- - [File Handling](https://github.com/arsh-singh05/Basic-Google-Go-Lang/tree/main/File%20Handling): Learn how to read and write files in Go and how to handle errors while working with files
+ - [File Handling](https://github.com/arsh-singh05/Basic-Google-Go-Lang/tree/main/File%20Handling): Learn how to read and write files in Go and how to handle errors while working with files.
+ - [Advanced Go](https://github.com/arsh-singh05/Basic-Google-Go-Lang/tree/main/Advnaced%20Go):Learn some advanced functions in GOLang to get to the next level.
 
 ### Difficulty Level
 The examples and explanations in this repository are suitable for developers of all levels. The examples start with basic concepts and gradually increase in complexity.
