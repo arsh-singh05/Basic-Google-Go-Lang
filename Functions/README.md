@@ -1,4 +1,4 @@
-### Functions
+## Functions
 This folder contains examples and explanations of functions in Go.
 
 Functions in Go are first-class citizens and can be assigned to variables, passed as arguments, and returned as values.
