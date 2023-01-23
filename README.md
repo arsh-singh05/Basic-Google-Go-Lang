@@ -2,7 +2,7 @@
 
 ### ![alt text](https://mobcoder.com/blog/wp-content/uploads/google-go.jpg)
 
-This repository contains sample code and tutorials for learning the basics of Google Go (Golang). Go is a modern programming language that is simple, efficient, and easy to learn. It is a great choice for building web servers, command-line tools, and other types of software.
+WWelcome to Go Lang Basics, a comprehensive repository designed to help developers learn the Go programming language from scratch. Whether you are a beginner or have some experience with Go, this repository provides a wide range of examples and explanations to help you deepen your understanding of the language. It contains sample code and tutorials for learning the basics of Google Go (Golang). Go is a modern programming language that is simple, efficient, and easy to learn. It is a great choice for building web servers, command-line tools, and other types of software.
 
 Go is a popular programming language that is widely used in industry and has a strong and growing community of developers. It is known for its simplicity, concurrency support, and performance, which makes it a good choice for a variety of applications.
 
