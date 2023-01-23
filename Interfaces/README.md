@@ -1,4 +1,4 @@
-### Interfaces in Go
+## Interfaces in Go
 This folder contains examples and explanations of interfaces in Go.
 
 Interfaces in Go allow you to define a contract for the behavior of a type without specifying the implementation. This allows for greater flexibility and code reuse.
